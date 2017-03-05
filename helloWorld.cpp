@@ -14,6 +14,6 @@ int main(int argc, char* argv[]) {
     cout << "i * d =" << i << endl;
 */
 
-	std::cout << "Hello, World!"<< std::endl;
+	std::cout << "Hello, World !"<< std::endl;
 	return 0;
 }
